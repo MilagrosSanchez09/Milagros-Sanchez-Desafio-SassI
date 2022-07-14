@@ -1,5 +1,6 @@
 * {
 	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
 }
 
 .carousel-item {
@@ -198,4 +199,3 @@ footer .fa-brands:hover{
 .about{
     background: linear-gradient(#fbede0 85%, white);
  } 
-
